@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClockTestTask</string>
+    <string name="text_holder">Переведи стрелки часов на:</string>
+    <string name="text_holder_good">Верно</string>
+    <string name="text_holder_bad">Неверно, попробуй еще раз</string>
+    <string name="text_button">✓</string>
+    <string name="text_time">12:00</string>
+</resources>
